@@ -1,0 +1,13 @@
+{
+  "kitoblar": [],
+  "odamlar": [
+    {
+      "nomi": "odam 5",
+      "id": 1
+    },
+    {
+      "nomi": "O'zgardi",
+      "id": 3
+    }
+  ]
+}
